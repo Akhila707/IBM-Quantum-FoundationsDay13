@@ -178,7 +178,7 @@ Day 10  ──  ✅  Project 1 · QML Classifier · MNIST · v1.0
 Day 11  ──  ✅  Quantum-Safe Cryptography · LWE · NIST PQC
 Day 12  ──  ✅  Quantum Portfolio · QAOA · real stock data
 Day 13  ──  ✅  Project 2 · Streamlit deployed · live demo
-Day 14  ──  ⬡   VQE Molecule Simulation · H2 · real hardware
+Day 14  ──   ✅Quantum Harmonic Oscillator — Ground State Energy via VQE
 ·
 ·
 Day 20  ──  ·   Final push
